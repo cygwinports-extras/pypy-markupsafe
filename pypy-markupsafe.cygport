@@ -1,0 +1,12 @@
+ORIG_PN="MarkupSafe"
+inherit pypy-distutils
+
+NAME="pypy-markupsafe"
+VERSION=0.15
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="PyPy XML/HTML safe string module"
+DESCRIPTION="Implements a XML/HTML/XHTML Markup safe string for Python"
+
+DOCS="README.rst"
+
